@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(145): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+  LicensePlate.vcxproj -> C:\Users\Hyun\source\repos\LicensePlate\x64\Debug\LicensePlate.exe

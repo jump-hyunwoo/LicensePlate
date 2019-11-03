@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(48): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(66): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(77): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hyun\source\repos\licenseplate\licenseplate\main.cpp(82): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+opencv_world411d.lib(opencv_world411d.dll) : fatal error LNK1112: 'x64' 모듈 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
